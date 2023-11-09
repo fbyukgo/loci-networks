@@ -12,5 +12,7 @@ There will be an output file with the name specified as "--analysis" flag in "--
 For the example given in usage part, the summary file will look like;
 
 $clump1 : 10 -> means there are 10 exclusive signals found in clump1
+
 $clump2  : 15 -> means there are 15 exclusive signals found in clump2
+
 $clump1_$clump2: 100 -> means there are 100 signals both found in clump1 and clump2 
